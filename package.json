@@ -1,0 +1,23 @@
+{
+  "name": "website-dos",
+  "version": "1.0.0",
+  "description": "A very simple Denial of Service script",
+  "main": "Website DoS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bricktech2000/Website-Dos.git"
+  },
+  "author": "Bricktech2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bricktech2000/Website-Dos/issues"
+  },
+  "homepage": "https://github.com/Bricktech2000/Website-Dos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
