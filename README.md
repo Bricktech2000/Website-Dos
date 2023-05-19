@@ -1,16 +1,14 @@
-Website Dos
-===========
+# Website Dos
 
-A very simple *Denial of Service* script
+_A very simple Denial of Service script_
 
+## Requirements
 
-Requirements
-------------
-* NodeJS 14+
+- NodeJS 14+
 
-Usage
------
+## Usage
 
 ```
 node "Website Dos.js"
 ```
+
